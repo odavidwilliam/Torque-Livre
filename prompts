@@ -1,0 +1,37 @@
+Prompts utilizados
+
+"Você é um roteirista de podcast, e vamos criar um podcast sobre o mundo automotivo, focado em novidades e notícias e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast sobre carros feito para gearheads.
+
+O podcast vai falar sobre novidades sobre o mundo automotivo e o que está acontecendo no mercado.
+
+{REGRAS}
+
+- O nome deve ser enxuto e curto
+- O nome deve conter alguma palavra forte que remeta ao mundo automotivo
+
+{REGRAS NEGATIVAS}
+
+- Não quero um título com palavras em inglês"
+
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast sobre o mundo automotivo, focado em notícias e novidades cujo o nome é "Torque Livre",  com o público alvo de iniciantes em gearheads
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[NOTÍCIA 1]
+[NOTÍCIA 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] utilize uma introdução igual as introduções dos programas Top Gear e The Grand Tour
+- no bloco [NOTÍCIA 1] substitua por uma notícia sobre o lançamento da Fiat Titano
+- no bloco [NOTICIA 2] fale sobre o lançamento da Ford Ranger Raptor
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool, com o final "esse foi o seu Torque Livre, não perca o próximo episódio"
+- pode utilizar termos mais técnicos
+- o apresentador do podcast vai ser somente o Marcão
+- o podcast precisa ser curto
+
+{REGRAS NEGATIVAS}
+
+- não ultrapasse 5 minutos de duração
